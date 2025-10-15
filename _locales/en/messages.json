@@ -1,0 +1,27 @@
+{
+  "extensionDescription": {
+    "message": "Redirects QRZ callsign lookups to HamQTH.",
+    "description": "Description of the extension."
+  },
+  
+  "extensionButtonTitle": {
+    "message": "Foobar",
+    "description": "Tool tip shown when hovering over the extension button"
+  },
+  
+  "systemMessageTitle": {
+    "message": "Q to H Chrome Extension",
+    "description": "The title that is displayed with system messages"
+  },
+
+  "systemMessageExtensionEnabled": {
+    "message": "The extension has been enabled",
+    "description": "System message shown when extension has been enabled"
+  },
+   
+  "systemMessageExtensionDisabled": {
+    "message": "The extension has been disabled",
+    "description": "System message shown when extension has been disabled"
+  }
+
+}
