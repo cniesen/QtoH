@@ -27,7 +27,8 @@ export default defineConfig({
 	},
     zip: {
         excludeSources: [
-            "gimp_assets/**"
+            "gimp_assets/**",
+            "img/**"
         ]
     }
 });
