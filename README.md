@@ -7,6 +7,8 @@ page ( i.e. https://www.hamqth.com/A1BC ).  The use case for this add-on is when
 website but instead HamQTH and want to ensure that 3rd party programs that open the QRZ page of an amateur 
 radio callsign will instead open the corresponding HamQTH site.
 
+[![Q to H](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dhx7h91uwEdg)](https://www.youtube.com/watch?v=hx7h91uwEdg)
+
 Download & Install
 ------------------
 [![Chrome Browser Extension](img/chrome.png)](https://chromewebstore.google.com/detail/q-to-h/hlbmnjmmfdejbnhogedpmogkmngonelk)
